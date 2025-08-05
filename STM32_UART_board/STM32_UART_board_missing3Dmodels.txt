@@ -1,0 +1,13 @@
+### Missing 3D models - created on 2025-08-05 21:25
+### Printed by checking_3D_models plugin
+Board file: D:\Documents\Dokumenty\ELEKTRONIKA\KiCad_projects\ES100_hacking\STM32_UART_board\STM32_UART_board.kicad_pcb
+3D missing models written to:
+D:\Documents\Dokumenty\ELEKTRONIKA\KiCad_projects\ES100_hacking\STM32_UART_board\STM32_UART_board_missing3Dmodels.txt
+-------
+('U1', '${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.wrl')
+('Q1', '${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.wrl')
+('J2', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Connector_Molex.3dshapes\\Molex_Micro-Latch_53253-0570_1x05_P2.00mm_Vertical.wrl')
+('L1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Inductor_SMD.3dshapes\\L_12x12mm_H8mm.wrl')
+-------
+NUM of 3D missing models:4
+checked extensions ['.stp', '.step', '.stpZ']
