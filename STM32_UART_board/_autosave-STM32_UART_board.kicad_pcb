@@ -159,8 +159,8 @@
 			)
 		)
 		(property "Value" "220 uF"
-			(at 0 5.2 0)
-			(layer "F.Fab")
+			(at 0.2 2.4 0)
+			(layer "F.SilkS")
 			(uuid "459b14d4-75e3-473e-87a2-0d37e8d3197f")
 			(effects
 				(font
@@ -3807,8 +3807,8 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 0 4.35 90)
-			(layer "F.Fab")
+			(at 0 1.85 90)
+			(layer "F.SilkS")
 			(uuid "ccfbf630-2efe-4931-bae5-e8b77aafbe6c")
 			(effects
 				(font
@@ -5036,8 +5036,8 @@
 			)
 		)
 		(property "Value" "680 uH"
-			(at 0 7.6 0)
-			(layer "F.Fab")
+			(at -0.2 -3.65 0)
+			(layer "F.SilkS")
 			(uuid "f734affb-c01a-47ca-9fad-743ab11430e5")
 			(effects
 				(font
@@ -9109,7 +9109,7 @@
 	)
 	(gr_arc
 		(start 107.804652 57.179652)
-		(mid 108.013495 57.266157)
+		(mid 108.013526 57.26614)
 		(end 108.1 57.475)
 		(stroke
 			(width 0.18)
@@ -11699,7 +11699,7 @@
 		)
 	)
 	(gr_text "4x∅3.2"
-		(at 108.1 65.075 0)
+		(at 107.3 66.075 0)
 		(layer "B.SilkS")
 		(uuid "0148ad4d-1d7f-4e63-8682-8191877d127b")
 		(effects
