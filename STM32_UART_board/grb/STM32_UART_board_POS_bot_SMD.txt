@@ -1,0 +1,24 @@
+### Module positions - created on 2025-08-10 21:40
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 86.050mm, Pcb Width 97.050mm [based on Edge bounding box]
+## Side : bottom
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+R21           100k                R_0603_1608Metric_Pad0.98x0.. 49.0000    -69.5000   49.0000    -68.5875     -9.0    bottom    SMD
+R20           300k                R_0603_1608Metric_Pad0.98x0.. 51.3375    -67.0000   50.4250    -67.0000      0.0    bottom    SMD
+R19           100k                R_0603_1608Metric_Pad0.98x0.. 47.7375    -67.0000   46.8250    -67.0000      0.0    bottom    SMD
+U13           BAS70-05            SOT-23-3_L2.9-W1.3-P1.90-LS.. 53.7000    -69.8600   52.7500    -68.8600      9.0    bottom    SMD
+R15           100k                R_0603_1608Metric_Pad0.98x0.. 98.5000    -25.5000   98.5000    -24.5875     -9.0    bottom    SMD
+R14           300k                R_0603_1608Metric_Pad0.98x0.. 100.8375   -23.0000   99.9250    -23.0000      0.0    bottom    SMD
+R13           100k                R_0603_1608Metric_Pad0.98x0.. 97.2375    -23.0000   96.3250    -23.0000      0.0    bottom    SMD
+U9            BAS70-05            SOT-23-3_L2.9-W1.3-P1.90-LS.. 103.2000   -25.8600   102.2500   -24.8600      9.0    bottom    SMD
+R9            100k                R_0603_1608Metric_Pad0.98x0.. 49.0000    -25.5000   49.0000    -24.5875     -9.0    bottom    SMD
+R8            300k                R_0603_1608Metric_Pad0.98x0.. 51.3375    -23.0000   50.4250    -23.0000      0.0    bottom    SMD
+R7            100k                R_0603_1608Metric_Pad0.98x0.. 47.7375    -23.0000   46.8250    -23.0000      0.0    bottom    SMD
+U5            BAS70-05            SOT-23-3_L2.9-W1.3-P1.90-LS.. 53.7000    -25.8600   52.7500    -24.8600      9.0    bottom    SMD
+U1            BAS70-05            SOT-23-3_L2.9-W1.3-P1.90-LS.. 103.2000   -69.8600   102.2500   -68.8600      9.0    bottom    SMD
+R1            100k                R_0603_1608Metric_Pad0.98x0.. 97.2375    -67.0000   96.3250    -67.0000      0.0    bottom    SMD
+R2            300k                R_0603_1608Metric_Pad0.98x0.. 100.8375   -67.0000   99.9250    -67.0000      0.0    bottom    SMD
+R3            100k                R_0603_1608Metric_Pad0.98x0.. 98.5000    -69.5000   98.5000    -68.5875     -9.0    bottom    SMD
+## End

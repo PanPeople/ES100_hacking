@@ -1,0 +1,20 @@
+### Module positions - created on 2025-08-10 21:40
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 86.050mm, Pcb Width 97.050mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J7            SWD                 PinHeader_1x05_P2.54mm_Vert.. 50.7100    -100.5000  50.7100    -100.5000     9.0    top       THD
+J8            Scooter             Molex_Micro-Latch_53253-057.. 42.5000    -80.5000   42.5000    -80.5000     -9.0    top       THD
+SW7           SW_Push             SW_PUSH_6mm                   47.5000    -73.7500   47.5000    -73.7500      0.0    top       THD
+J5            SWD                 PinHeader_1x05_P2.54mm_Vert.. 100.2100   -56.5000   100.2100   -56.5000      9.0    top       THD
+J6            Scooter             Molex_Micro-Latch_53253-057.. 92.0000    -36.5000   92.0000    -36.5000     -9.0    top       THD
+SW5           SW_Push             SW_PUSH_6mm                   97.0000    -29.7500   97.0000    -29.7500      0.0    top       THD
+J3            SWD                 PinHeader_1x05_P2.54mm_Vert.. 50.7100    -56.5000   50.7100    -56.5000      9.0    top       THD
+SW3           SW_Push             SW_PUSH_6mm                   47.5000    -29.7500   47.5000    -29.7500      0.0    top       THD
+J4            Scooter             Molex_Micro-Latch_53253-057.. 42.5000    -36.5000   42.5000    -36.5000     -9.0    top       THD
+SW1           SW_Push             SW_PUSH_6mm                   97.0000    -73.7500   97.0000    -73.7500      0.0    top       THD
+J2            Scooter             Molex_Micro-Latch_53253-057.. 92.0000    -80.5000   92.0000    -80.5000     -9.0    top       THD
+J1            SWD                 PinHeader_1x05_P2.54mm_Vert.. 100.2100   -100.5000  100.2100   -100.5000     9.0    top       THD
+## End
